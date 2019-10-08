@@ -1,0 +1,18 @@
+C:\Users\n3712c3\Documents\aula\WpfApp1\ClassesModel\bin\Debug\ClassesModel.dll
+C:\Users\n3712c3\Documents\aula\WpfApp1\ClassesModel\bin\Debug\ClassesModel.pdb
+C:\Users\n3712c3\Documents\aula\WpfApp1\ClassesModel\obj\Debug\ClassesModel.csprojAssemblyReference.cache
+C:\Users\n3712c3\Documents\aula\WpfApp1\ClassesModel\obj\Debug\ClassesModel.csproj.CoreCompileInputs.cache
+C:\Users\n3712c3\Documents\aula\WpfApp1\ClassesModel\obj\Debug\ClassesModel.dll
+C:\Users\n3712c3\Documents\aula\WpfApp1\ClassesModel\obj\Debug\ClassesModel.pdb
+C:\Users\Ju\Documents\WpfApp1\ClassesModel\bin\Debug\ClassesModel.dll
+C:\Users\Ju\Documents\WpfApp1\ClassesModel\bin\Debug\ClassesModel.pdb
+C:\Users\Ju\Documents\WpfApp1\ClassesModel\obj\Debug\ClassesModel.csprojAssemblyReference.cache
+C:\Users\Ju\Documents\WpfApp1\ClassesModel\obj\Debug\ClassesModel.csproj.CoreCompileInputs.cache
+C:\Users\Ju\Documents\WpfApp1\ClassesModel\obj\Debug\ClassesModel.dll
+C:\Users\Ju\Documents\WpfApp1\ClassesModel\obj\Debug\ClassesModel.pdb
+F:\tudo\Programação em Visual Studio\WpfApp1\ClassesModel\bin\Debug\ClassesModel.dll
+F:\tudo\Programação em Visual Studio\WpfApp1\ClassesModel\bin\Debug\ClassesModel.pdb
+F:\tudo\Programação em Visual Studio\WpfApp1\ClassesModel\obj\Debug\ClassesModel.csprojAssemblyReference.cache
+F:\tudo\Programação em Visual Studio\WpfApp1\ClassesModel\obj\Debug\ClassesModel.csproj.CoreCompileInputs.cache
+F:\tudo\Programação em Visual Studio\WpfApp1\ClassesModel\obj\Debug\ClassesModel.dll
+F:\tudo\Programação em Visual Studio\WpfApp1\ClassesModel\obj\Debug\ClassesModel.pdb

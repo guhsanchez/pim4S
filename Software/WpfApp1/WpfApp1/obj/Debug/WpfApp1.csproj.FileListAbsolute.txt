@@ -1,0 +1,72 @@
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\ClassesControle.dll
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\ClassesModel.dll
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\ClassesControle.pdb
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\bin\Debug\ClassesModel.pdb
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\n3712c3\Documents\aula\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\ClassesControle.dll
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\ClassesModel.dll
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\ClassesControle.pdb
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\bin\Debug\ClassesModel.pdb
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\Cadastrar.g.cs
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\Escolha.g.cs
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\Cadastrar.baml
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\Escolha.baml
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\Atendimento.g.cs
+C:\Users\Ju\Documents\WpfApp1\WpfApp1\obj\Debug\Atendimento.baml
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\ClassesControle.dll
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\ClassesModel.dll
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\ClassesControle.pdb
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\bin\Debug\ClassesModel.pdb
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\Atendimento.g.cs
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\Cadastrar.g.cs
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\Escolha.g.cs
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\Atendimento.baml
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\Cadastrar.baml
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\Escolha.baml
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\tudo\Programação em Visual Studio\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
