@@ -1,0 +1,65 @@
+E:\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+E:\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+E:\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
+E:\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+E:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+F:\Programação em Visual Studio\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+C:\Users\Vitor\Documents\Faculdade\assistente_social\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
+G:\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+G:\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+G:\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+G:\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
