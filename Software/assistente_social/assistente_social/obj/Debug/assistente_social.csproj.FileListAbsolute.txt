@@ -63,3 +63,15 @@ G:\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.Genera
 G:\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.CoreCompileInputs.cache
 G:\assistente_social\assistente_social\obj\Debug\assistente_social.exe
 G:\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\bin\Debug\assistente_social.exe.config
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\bin\Debug\assistente_social.exe
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\bin\Debug\assistente_social.pdb
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.csprojAssemblyReference.cache
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.frmCadastrar.resources
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmEscolha.resources
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmFlash.resources
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.Apresentacao.frmProblematica.resources
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.Properties.Resources.resources
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.csproj.GenerateResource.cache
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.exe
+C:\Users\user\Desktop\pim4S\Software\assistente_social\assistente_social\obj\Debug\assistente_social.pdb
