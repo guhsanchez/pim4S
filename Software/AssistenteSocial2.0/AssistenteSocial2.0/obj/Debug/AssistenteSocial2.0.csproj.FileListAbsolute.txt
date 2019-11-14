@@ -80,3 +80,20 @@ C:\Users\Ju\Desktop\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\Assistente
 C:\Users\Ju\Desktop\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2.0.pdb
 E:\Tudo\Programação em Visual Studio\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.frmAtendimento.resources
 E:\Tudo\Programação em Visual Studio\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.frmEscolha.resources
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\AssistenteSocial2.0.exe.config
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\AssistenteSocial2.0.exe
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\AssistenteSocial2.0.pdb
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\ClasseControle.dll
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\ClasseModel.dll
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\ClasseControle.pdb
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\bin\Debug\ClasseModel.pdb
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2.0.csprojAssemblyReference.cache
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.Form1.resources
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.frmAtendimento.resources
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.frmCadastrar.resources
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.frmEscolha.resources
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2._0.Properties.Resources.resources
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2.0.csproj.GenerateResource.cache
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2.0.csproj.CopyComplete
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2.0.exe
+C:\Users\user\Desktop\pim4S\Software\AssistenteSocial2.0\AssistenteSocial2.0\obj\Debug\AssistenteSocial2.0.pdb

@@ -34,9 +34,11 @@
             // 
             // btnLogar
             // 
-            this.btnLogar.Location = new System.Drawing.Point(46, 115);
+            this.btnLogar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLogar.Location = new System.Drawing.Point(104, 162);
+            this.btnLogar.Margin = new System.Windows.Forms.Padding(2);
             this.btnLogar.Name = "btnLogar";
-            this.btnLogar.Size = new System.Drawing.Size(100, 38);
+            this.btnLogar.Size = new System.Drawing.Size(67, 25);
             this.btnLogar.TabIndex = 1;
             this.btnLogar.Text = "Logar";
             this.btnLogar.UseVisualStyleBackColor = true;
@@ -44,18 +46,22 @@
             // 
             // txbSenha
             // 
-            this.txbSenha.Location = new System.Drawing.Point(46, 66);
+            this.txbSenha.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txbSenha.Location = new System.Drawing.Point(71, 126);
+            this.txbSenha.Margin = new System.Windows.Forms.Padding(2);
             this.txbSenha.Name = "txbSenha";
-            this.txbSenha.Size = new System.Drawing.Size(100, 26);
+            this.txbSenha.Size = new System.Drawing.Size(144, 20);
             this.txbSenha.TabIndex = 0;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(194, 216);
+            this.ClientSize = new System.Drawing.Size(243, 229);
             this.Controls.Add(this.txbSenha);
             this.Controls.Add(this.btnLogar);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
