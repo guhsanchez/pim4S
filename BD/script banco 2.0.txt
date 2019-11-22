@@ -1,3 +1,4 @@
+
 Create database Ricardo
 go
 use Ricardo
@@ -6,7 +7,7 @@ create table Crianca
 (
  id int identity (1,1) primary key,
  Nome Varchar (50),
- Endereço Varchar (50),
+ EndereÃ§o Varchar (50),
  DataNascimento Varchar (50),
  Escola Varchar (50),
  Telefone Varchar (50),
@@ -18,6 +19,7 @@ create table Crianca
  BolsaFamilia varchar (50),
  GastoMensal Varchar (50),
  Encaminhado Varchar (50),
+ NumeroCasa Varchar (50),
  Atendimento text 
 )
 go
@@ -36,7 +38,7 @@ go
 create  procedure SP_INSERECRIANCA
 (
  @Nome Varchar (50),
- @Endereço Varchar (50),
+ @EndereÃ§o Varchar (50),
  @DataNascimento Varchar (50),
  @Escola Varchar (50),
  @Telefone Varchar (50),
@@ -48,6 +50,7 @@ create  procedure SP_INSERECRIANCA
  @BolsaFamilia varchar (50),
  @GastoMensal Varchar (50),
  @Encaminhado Varchar (50),
+ @NumeroCasa Varchar (50),
  @Atendimento text
 )
 as
@@ -55,7 +58,7 @@ begin
 insert into Crianca values
 (
  @Nome ,
- @Endereço ,
+ @EndereÃ§o ,
  @DataNascimento ,
  @Escola ,
  @Telefone ,
@@ -67,6 +70,7 @@ insert into Crianca values
  @BolsaFamilia ,
  @GastoMensal ,
  @Encaminhado,
+ @NumeroCasa,
  @Atendimento
 )
 end
@@ -101,7 +105,7 @@ go
 CREATE PROCEDURE SP_ALTERARCRIANCA
 @id int,
 @Nome Varchar (50),
-@Endereço Varchar (50),
+@EndereÃ§o Varchar (50),
 @DataNascimento Varchar (50),
 @Escola Varchar (50),
 @Telefone Varchar (50),
@@ -113,12 +117,13 @@ CREATE PROCEDURE SP_ALTERARCRIANCA
 @BolsaFamilia varchar (50),
 @GastoMensal Varchar (50),
 @Encaminhado Varchar (50),
+@NumeroCasa Varchar (50),
 @Atendimento text
 AS
 BEGIN
 UPDATE Crianca SET 
 Nome = @Nome, 
-Endereço = @Endereço, 
+EndereÃ§o = @EndereÃ§o, 
 DataNascimento = @DataNascimento, 
 Escola = @Escola, 
 Telefone = @Telefone, 
@@ -129,6 +134,7 @@ CasaPropria = @CasaPropria,
 RendaFamilia = @RendaFamilia,
 GastoMensal = @GastoMensal,
 Encaminhado = @Encaminhado,
+NumeroCasa = @NumeroCasa,
 Atendimento = @Atendimento
 WHERE id=@id
 END
