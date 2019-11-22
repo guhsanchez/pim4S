@@ -31,3 +31,12 @@ C:\Users\Vitor\Desktop\pim4S-master\pim4S-master\Software\AssistenteSocial2.0\Cl
 C:\Users\Vitor\Desktop\pim4S-master\pim4S-master\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.csproj.CopyComplete
 C:\Users\Vitor\Desktop\pim4S-master\pim4S-master\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.dll
 C:\Users\Vitor\Desktop\pim4S-master\pim4S-master\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.pdb
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\bin\Debug\ClasseControle.dll
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\bin\Debug\ClasseControle.pdb
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\bin\Debug\ClasseModel.dll
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\bin\Debug\ClasseModel.pdb
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.csproj.CopyComplete
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.dll
+C:\Users\Vitor\Desktop\pim4S\Software\AssistenteSocial2.0\ClasseControle\obj\Debug\ClasseControle.pdb
