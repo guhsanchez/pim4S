@@ -32,19 +32,17 @@
             this.btnAtendimento = new System.Windows.Forms.Button();
             this.btnCadastrar = new System.Windows.Forms.Button();
             this.btnFechar = new System.Windows.Forms.Button();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnAtendimento
             // 
-            this.btnAtendimento.BackColor = System.Drawing.Color.LightGray;
+            this.btnAtendimento.BackColor = System.Drawing.Color.LimeGreen;
             this.btnAtendimento.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnAtendimento.FlatAppearance.BorderSize = 0;
             this.btnAtendimento.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAtendimento.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAtendimento.ForeColor = System.Drawing.Color.DarkMagenta;
-            this.btnAtendimento.Location = new System.Drawing.Point(25, 82);
+            this.btnAtendimento.ForeColor = System.Drawing.Color.White;
+            this.btnAtendimento.Location = new System.Drawing.Point(30, 153);
             this.btnAtendimento.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnAtendimento.Name = "btnAtendimento";
             this.btnAtendimento.Size = new System.Drawing.Size(239, 38);
@@ -55,13 +53,13 @@
             // 
             // btnCadastrar
             // 
-            this.btnCadastrar.BackColor = System.Drawing.Color.LightGray;
+            this.btnCadastrar.BackColor = System.Drawing.Color.LimeGreen;
             this.btnCadastrar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.btnCadastrar.FlatAppearance.BorderSize = 0;
             this.btnCadastrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnCadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCadastrar.ForeColor = System.Drawing.Color.DarkMagenta;
-            this.btnCadastrar.Location = new System.Drawing.Point(282, 82);
+            this.btnCadastrar.ForeColor = System.Drawing.Color.White;
+            this.btnCadastrar.Location = new System.Drawing.Point(30, 98);
             this.btnCadastrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(239, 38);
@@ -79,38 +77,29 @@
             this.btnFechar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFechar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFechar.ForeColor = System.Drawing.Color.White;
-            this.btnFechar.Location = new System.Drawing.Point(501, 2);
+            this.btnFechar.Location = new System.Drawing.Point(259, 12);
             this.btnFechar.Name = "btnFechar";
             this.btnFechar.Size = new System.Drawing.Size(35, 35);
             this.btnFechar.TabIndex = 5;
             this.btnFechar.UseVisualStyleBackColor = false;
             this.btnFechar.Click += new System.EventHandler(this.BtnFechar_Click);
             // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel1.Controls.Add(this.btnFechar);
-            this.panel1.Location = new System.Drawing.Point(-3, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(551, 40);
-            this.panel1.TabIndex = 6;
-            // 
             // frmEscolha
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(545, 148);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(306, 263);
             this.ControlBox = false;
+            this.Controls.Add(this.btnFechar);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.btnAtendimento);
-            this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "frmEscolha";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmEscolha";
             this.Load += new System.EventHandler(this.FrmEscolha_Load);
-            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -120,6 +109,5 @@
         private System.Windows.Forms.Button btnAtendimento;
         private System.Windows.Forms.Button btnCadastrar;
         private System.Windows.Forms.Button btnFechar;
-        private System.Windows.Forms.Panel panel1;
     }
 }

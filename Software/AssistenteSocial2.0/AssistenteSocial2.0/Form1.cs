@@ -40,16 +40,6 @@ namespace AssistenteSocial2._0
             }
         }
 
-        protected override void OnPaintBackground(PaintEventArgs e)
-        {
-            using (LinearGradientBrush brush = new LinearGradientBrush(this.ClientRectangle,
-                                                                       Color.DarkSlateGray,
-                                                                       Color.SkyBlue,
-                                                                       90F))
-            {
-                e.Graphics.FillRectangle(brush, this.ClientRectangle);
-            }
-        }
         private void Form1_Load(object sender, EventArgs e)
         {
 

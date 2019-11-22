@@ -63,23 +63,25 @@
             this.txbAtendimento = new System.Windows.Forms.TextBox();
             this.lblAtendimento = new System.Windows.Forms.Label();
             this.btnSalvar = new System.Windows.Forms.Button();
-            this.panel1 = new System.Windows.Forms.Panel();
             this.btnFechar = new System.Windows.Forms.Button();
             this.txbNumeroCasa = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMostar)).BeginInit();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnVoltar
             // 
+            this.btnVoltar.BackColor = System.Drawing.Color.LimeGreen;
+            this.btnVoltar.FlatAppearance.BorderSize = 0;
+            this.btnVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVoltar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnVoltar.Location = new System.Drawing.Point(1003, 604);
+            this.btnVoltar.ForeColor = System.Drawing.Color.White;
+            this.btnVoltar.Location = new System.Drawing.Point(597, 713);
             this.btnVoltar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnVoltar.Name = "btnVoltar";
-            this.btnVoltar.Size = new System.Drawing.Size(57, 28);
+            this.btnVoltar.Size = new System.Drawing.Size(139, 29);
             this.btnVoltar.TabIndex = 0;
-            this.btnVoltar.Text = "voltar";
-            this.btnVoltar.UseVisualStyleBackColor = true;
+            this.btnVoltar.Text = "Voltar";
+            this.btnVoltar.UseVisualStyleBackColor = false;
             this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
             // 
             // dgvMostar
@@ -246,7 +248,9 @@
             // lblNome
             // 
             this.lblNome.AutoSize = true;
+            this.lblNome.BackColor = System.Drawing.Color.Transparent;
             this.lblNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNome.ForeColor = System.Drawing.Color.White;
             this.lblNome.Location = new System.Drawing.Point(23, 392);
             this.lblNome.Name = "lblNome";
             this.lblNome.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -258,7 +262,9 @@
             // lblEndereco
             // 
             this.lblEndereco.AutoSize = true;
+            this.lblEndereco.BackColor = System.Drawing.Color.Transparent;
             this.lblEndereco.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEndereco.ForeColor = System.Drawing.Color.White;
             this.lblEndereco.Location = new System.Drawing.Point(299, 392);
             this.lblEndereco.Name = "lblEndereco";
             this.lblEndereco.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -270,7 +276,9 @@
             // lblDataNascimento
             // 
             this.lblDataNascimento.AutoSize = true;
+            this.lblDataNascimento.BackColor = System.Drawing.Color.Transparent;
             this.lblDataNascimento.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDataNascimento.ForeColor = System.Drawing.Color.White;
             this.lblDataNascimento.Location = new System.Drawing.Point(684, 413);
             this.lblDataNascimento.Name = "lblDataNascimento";
             this.lblDataNascimento.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -282,7 +290,9 @@
             // lblEscola
             // 
             this.lblEscola.AutoSize = true;
+            this.lblEscola.BackColor = System.Drawing.Color.Transparent;
             this.lblEscola.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEscola.ForeColor = System.Drawing.Color.White;
             this.lblEscola.Location = new System.Drawing.Point(807, 413);
             this.lblEscola.Name = "lblEscola";
             this.lblEscola.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -294,8 +304,10 @@
             // lblTelefone
             // 
             this.lblTelefone.AutoSize = true;
+            this.lblTelefone.BackColor = System.Drawing.Color.Transparent;
             this.lblTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTelefone.Location = new System.Drawing.Point(30, 531);
+            this.lblTelefone.ForeColor = System.Drawing.Color.White;
+            this.lblTelefone.Location = new System.Drawing.Point(30, 518);
             this.lblTelefone.Name = "lblTelefone";
             this.lblTelefone.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.lblTelefone.Size = new System.Drawing.Size(73, 20);
@@ -422,24 +434,19 @@
             // 
             // btnSalvar
             // 
+            this.btnSalvar.BackColor = System.Drawing.Color.LimeGreen;
+            this.btnSalvar.FlatAppearance.BorderSize = 0;
+            this.btnSalvar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSalvar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSalvar.Location = new System.Drawing.Point(1003, 571);
+            this.btnSalvar.ForeColor = System.Drawing.Color.White;
+            this.btnSalvar.Location = new System.Drawing.Point(765, 713);
             this.btnSalvar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSalvar.Name = "btnSalvar";
-            this.btnSalvar.Size = new System.Drawing.Size(57, 28);
+            this.btnSalvar.Size = new System.Drawing.Size(138, 29);
             this.btnSalvar.TabIndex = 43;
             this.btnSalvar.Text = "Salvar";
-            this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.UseVisualStyleBackColor = false;
             this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.panel1.Controls.Add(this.btnFechar);
-            this.panel1.Location = new System.Drawing.Point(0, -1);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1363, 40);
-            this.panel1.TabIndex = 44;
             // 
             // btnFechar
             // 
@@ -450,7 +457,7 @@
             this.btnFechar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnFechar.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFechar.ForeColor = System.Drawing.Color.White;
-            this.btnFechar.Location = new System.Drawing.Point(1319, 2);
+            this.btnFechar.Location = new System.Drawing.Point(1313, 12);
             this.btnFechar.Name = "btnFechar";
             this.btnFechar.Size = new System.Drawing.Size(35, 35);
             this.btnFechar.TabIndex = 5;
@@ -470,10 +477,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1360, 768);
             this.ControlBox = false;
+            this.Controls.Add(this.btnFechar);
             this.Controls.Add(this.txbNumeroCasa);
-            this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnSalvar);
             this.Controls.Add(this.lblAtendimento);
             this.Controls.Add(this.txbAtendimento);
@@ -516,7 +524,6 @@
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.frmAtendimento_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMostar)).EndInit();
-            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -558,7 +565,6 @@
         private System.Windows.Forms.TextBox txbAtendimento;
         private System.Windows.Forms.Label lblAtendimento;
         private System.Windows.Forms.Button btnSalvar;
-        private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button btnFechar;
         private System.Windows.Forms.TextBox txbNumeroCasa;
     }
